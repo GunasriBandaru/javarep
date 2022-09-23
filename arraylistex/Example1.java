@@ -1,6 +1,5 @@
 package com.ivy.arraylistex;
 import java.util.List;
-import java.util.Collections;
 import java.util.ArrayList;
 import java.io.*;
 class Example{
